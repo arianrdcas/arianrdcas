@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Arian Rodríguez</h1>
 
-<h3 align="center">QA Analyst | ISTQB® CTFL | Frontend Developer con mentalidad de calidad</h3>
+<h3 align="center">QA Analyst | ISTQB® CTFL </h3>
 
 ---
 
