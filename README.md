@@ -14,8 +14,8 @@
 
 ### 🚀 Enfoque Profesional
 
-- Diseño y ejecución de casos de prueba (escenarios positivos y negativos).
-- Validación de nuevas funcionalidades antes de su liberación.
+- Diseño y ejecución de casos de prueba.
+- Testing autmatizado E2E con Playwright.
 - Testing de APIs con Postman.
 - Gestión de incidencias con Jira.
 - Colaboración activa en mejora de UX/UI.
