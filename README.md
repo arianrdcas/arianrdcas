@@ -15,7 +15,7 @@
 ### 🚀 Enfoque Profesional
 
 - Diseño y ejecución de casos de prueba.
-- Testing autmatizado E2E con Playwright.
+- Testing automatizado E2E con Playwright.
 - Testing de APIs.
 - Gestión de incidencias.
 - Colaboración activa en mejora de UX/UI.
